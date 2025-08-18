@@ -20,8 +20,8 @@
   The output is the forecasted PM2.5 concentration for the next 1 hour (HORIZON = 1) at the same station/location.
   
 ## Valuation Metrics
-  MAE (Mean Absolute Error) – measures average absolute difference between predicted and actual values.
-  RMSE (Root Mean Squared Error) – penalizes larger errors more strongly than MAE.
-  R² (Coefficient of Determination) – measures goodness-of-fit, closer to 1 means better performance.
-  MAPE (Mean Absolute Percentage Error) – expresses the error as a percentage of the actual values, useful for interpretability.
+- MAE (Mean Absolute Error) – measures average absolute difference between predicted and actual values.
+- RMSE (Root Mean Squared Error) – penalizes larger errors more strongly than MAE.
+- R² (Coefficient of Determination) – measures goodness-of-fit, closer to 1 means better performance.
+- MAPE (Mean Absolute Percentage Error) – expresses the error as a percentage of the actual values, useful for interpretability.
   
