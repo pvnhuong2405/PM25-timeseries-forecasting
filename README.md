@@ -1,13 +1,13 @@
 ## Input (X)
 - The input to the model is an hourly multivariate time series consisting of the past L hours (lookback window) of environmental variables, including:
-  PM2.5 (past values, used as explanatory variable — autoregressive feature)
-  NO₂
-  CO
-  SO₂
-  O₃
-  Temperature
-  Humidity
-  (Optional) Pressure, Wind speed, and other available features
+  - PM2.5 (past values, used as explanatory variable — autoregressive feature)
+  - NO₂
+  - CO
+  - SO₂
+  - O₃
+  - Temperature
+  - Humidity
+  - (Optional) Pressure, Wind speed, and other available features
 
 - Additional features can be included:
   Time features: hour of day, day of week, month, weekend flag, etc.
