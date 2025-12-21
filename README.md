@@ -26,4 +26,12 @@
 - MAPE (Mean Absolute Percentage Error) – expresses the error as a percentage of the actual values, useful for interpretability.
   
 ## Result
+- Train
+<img width="1223" height="412" alt="image" src="https://github.com/user-attachments/assets/f01845d0-143e-4eff-935e-b730bc60f4e0" />
+<img width="1212" height="403" alt="image" src="https://github.com/user-attachments/assets/aea3b6d0-3048-4356-9efa-2ca7cba46bb5" />
+<img width="1214" height="409" alt="image" src="https://github.com/user-attachments/assets/84b8548b-5414-41b6-8f8f-f6ecc866326e" />
+- Valuation Metrics
+<img width="341" height="360" alt="image" src="https://github.com/user-attachments/assets/603fa33f-df8f-4fb1-b27b-9931d4ced566" />
+
+- Comparison of PM2.5 forecasts (200 initial test samples)
 <img width="1251" height="554" alt="image" src="https://github.com/user-attachments/assets/2ee5ecce-5a6a-4b2f-9447-685dbff26e5b" />
