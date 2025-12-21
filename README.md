@@ -25,3 +25,5 @@
 - R² (Coefficient of Determination) – measures goodness-of-fit, closer to 1 means better performance.
 - MAPE (Mean Absolute Percentage Error) – expresses the error as a percentage of the actual values, useful for interpretability.
   
+## Result
+<img width="1251" height="554" alt="image" src="https://github.com/user-attachments/assets/2ee5ecce-5a6a-4b2f-9447-685dbff26e5b" />
